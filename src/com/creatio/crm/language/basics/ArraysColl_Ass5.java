@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-public class Assignment5 {
+public class ArraysColl_Ass5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
